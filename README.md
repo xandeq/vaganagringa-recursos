@@ -48,6 +48,21 @@
 
 ---
 
+## 📝 Artigos do Blog
+
+Guias completos para devs brasileiros:
+
+- 📋 [Como Passar na Entrevista Técnica das Big Techs](https://vaganagringa.dev/artigos/como-passar-entrevista-tecnica-big-tech) — Coding, system design e behavioral
+- 📄 [Currículo ATS para Desenvolvedor](https://vaganagringa.dev/artigos/curriculo-ats-desenvolvedor) — Como passar pelo filtro automático
+- 💰 [Salário de Desenvolvedor nos EUA em 2026](https://vaganagringa.dev/artigos/salario-desenvolvedor-estados-unidos-2026) — Comparativo por stack e senioridade
+- 🗣️ [Inglês para Entrevista Técnica](https://vaganagringa.dev/artigos/ingles-para-entrevista-tecnica) — Vocabulário e método STAR
+- 🎭 [Mock Interview para Desenvolvedor](https://vaganagringa.dev/artigos/mock-interview-desenvolvedor) — Por que simular entrevistas muda tudo
+- 🏗️ [System Design Interview](https://vaganagringa.dev/artigos/) — Como estruturar a resposta
+- 💬 [Negociação Salarial para Devs](https://vaganagringa.dev/artigos/) — Scripts e táticas práticas
+- 🌎 [Trabalhar Remoto para Empresa Americana](https://vaganagringa.dev/artigos/) — PJ, invoice e impostos
+
+---
+
 ## 💰 Calculadoras Financeiras
 
 Para devs que já conseguiram uma oferta internacional:
